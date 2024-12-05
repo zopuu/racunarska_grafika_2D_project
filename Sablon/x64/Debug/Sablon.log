@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Veljko Puzovic\Desktop\Teksture\main.cpp(556,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> C:\Users\Veljko Puzovic\Desktop\Teksture\x64\Debug\Sablon.exe

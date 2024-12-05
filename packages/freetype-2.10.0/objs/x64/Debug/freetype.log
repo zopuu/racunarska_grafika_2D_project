@@ -1,0 +1,339 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftmm.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftfstype.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftfstype.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftcid.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftcid.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbbox.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbbox.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbitmap.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbitmap.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbdf.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbdf.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/autofit/autofit.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/autofit/autofit.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbase.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftbase.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftgasp.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftgasp.c')
+  
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftglyph.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftglyph.c')
+  
+  ftstroke.c
+  ftsynth.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftgxval.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftgxval.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftmm.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftmm.c')
+  
+  ftsystem.c
+  fttype1.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftinit.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftinit.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftotval.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftotval.c')
+  
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+  cff.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftpfr.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftpfr.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftpatent.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftpatent.c')
+  
+  type1cid.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftsynth.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftsynth.c')
+  
+  ftgzip.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/fttype1.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/fttype1.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftstroke.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftstroke.c')
+  
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftsystem.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftsystem.c')
+  
+  pshinter.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cff/cff.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cff/cff.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftwinfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/base/ftwinfnt.c')
+  
+  psmodule.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cache/ftcache.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cache/ftcache.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cid/type1cid.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/cid/type1cid.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/gzip/ftgzip.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/bdf/bdf.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/bdf/bdf.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/gzip/ftgzip.c')
+  
+  raster.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pcf/pcf.c')
+  
+  sfnt.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pcf/pcf.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pfr/pfr.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pfr/pfr.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/lzw/ftlzw.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/lzw/ftlzw.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pshinter/pshinter.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/pshinter/pshinter.c')
+  
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/psaux/psaux.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/psaux/psaux.c')
+  
+  winfnt.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/psnames/psmodule.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/psnames/psmodule.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\psaux\psintrp.c(1005,25): warning C4267: '=': conversion from 'size_t' to 'FT_Fast', possible loss of data
+  (compiling source file '../../../src/psaux/psaux.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/raster/raster.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/raster/raster.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/type42/type42.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/type42/type42.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/smooth/smooth.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/smooth/smooth.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\smooth\ftgrays.c(1700,20): warning C4267: '+=': conversion from 'size_t' to 'TCoord', possible loss of data
+  (compiling source file '../../../src/smooth/smooth.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\sfdriver.c(846,13): warning C4267: '=': conversion from 'size_t' to 'FT_UInt', possible loss of data
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\sfdriver.c(997,36): warning C4244: 'function': conversion from '__int64' to 'const unsigned int', possible loss of data
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type42\t42parse.c(836,62): warning C4244: '=': conversion from '__int64' to 'FT_Int', possible loss of data
+  (compiling source file '../../../src/type42/type42.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcolr.c(127,50): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcolr.c(136,40): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcpal.c(121,40): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcpal.c(153,50): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcpal.c(174,50): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\sfnt\ttcpal.c(195,57): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '../../../src/sfnt/sfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/winfonts/winfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/winfonts/winfnt.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1008,1): warning C4391: 'signed char _sat_add_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/truetype/truetype.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\intrin.h(1016,1): warning C4391: 'signed char _sat_sub_i8(signed char,signed char)': incorrect return type for intrinsic function, expected 'char'
+  (compiling source file '../../../src/truetype/truetype.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(277,48): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(298,55): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(330,62): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(360,19): warning C4267: '=': conversion from 'size_t' to 'FT_UInt', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(569,56): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(578,55): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(587,58): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(596,60): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1driver.c(606,55): warning C4267: '=': conversion from 'size_t' to 'FT_ULong', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1load.c(1742,64): warning C4244: '=': conversion from '__int64' to 'FT_Int', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\type1\t1load.c(1912,36): warning C4244: '=': conversion from '__int64' to 'FT_Int', possible loss of data
+  (compiling source file '../../../src/type1/type1.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\truetype\ttgload.c(1817,23): warning C4312: 'type cast': conversion from 'unsigned long' to 'void *' of greater size
+  (compiling source file '../../../src/truetype/truetype.c')
+  
+C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\src\truetype\ttgxvar.c(2196,1): warning C4701: potentially uninitialized local variable 'fvar_head' used
+  ftdebug.c
+     Creating library ..\..\..\objs\x64\Debug\freetype.lib and object ..\..\..\objs\x64\Debug\freetype.exp
+  freetype.vcxproj -> C:\Users\Veljko Puzovic\Desktop\Teksture\packages\freetype-2.10.0\objs\x64\Debug\freetype.dll
